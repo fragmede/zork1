@@ -1,0 +1,20 @@
+# Zork I - Python Edition
+# Python dependencies
+
+# Core dependencies
+# (Currently no external dependencies - pure Python!)
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: Enhanced terminal output
+# colorama>=0.4.6  # For colored terminal output (cross-platform)
+
+# Optional: Type checking
+# mypy>=1.0.0
+
+# Optional: Code quality
+# black>=23.0.0
+# flake8>=6.0.0
+# pylint>=2.17.0
